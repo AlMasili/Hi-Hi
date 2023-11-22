@@ -161,7 +161,7 @@ logo=("""/$$$$$$$          /$$$$$$   /$$$$$$
 \033[1;32m[✓]AUTHOR  :\033[1;32m B-28
 \033[1;32m[✓]TOOL    :\033[1;32m B-28
 \033[1;32m[✓]FACEBOOK:\033[1;32m B-28
-\033[1;32m[✓]VERSION :\033[1;32m 1.1
+\033[1;32m[✓]VERSION :\033[1;32m 2.4
 \033[1;32m[✓]STATUS  :\033[1;32m fire 🔥
 Algeria hacker Welcome everyone 
 Facebook account hunting 
